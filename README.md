@@ -2,16 +2,16 @@
 Post Graduate Diploma in Data science by Mumbai University facilitated by National Institute of Securities Market (NISM)
 
 # About the Programme
-**Program Name**: Post Graduate Diploma in Data Science 
-**Objective**: to create the next generation Analyst and Data Scientist.
-**Duration**: Nine month part-time programme 
-**Participants**: For students interested in analytics, technology firms, regulators, consulting and universities across the globe.
-**Timing**: 10:00am - 5:00pm (Every Sunday)
-**Location**: NISM Bhavan Vashi, Navi Mumbai
-**Delivery Mode**:classroom
-**Programme Fees**: 1,27,000 INR ( inclusive of GST) for batch 2018 (Check NISM website for updates)
-**Evaluation Criteria**: A student is expected to obtain the minimum passing grade of 50% in each of the courses listed above.
-**Degree Awards**: The degree will be awarded jointly by NISM and Department of Economics, University of Mumbai.
+- **Program Name**: Post Graduate Diploma in Data Science 
+- **Objective**: to create the next generation Analyst and Data Scientist.
+- **Duration**: Nine month part-time programme 
+- **Participants**: For students interested in analytics, technology firms, regulators, consulting and universities across the globe.
+- **Timing**: 10:00am - 5:00pm (Every Sunday)
+- **Location**: NISM Bhavan Vashi, Navi Mumbai
+- **Delivery Mode**:classroom
+- **Programme Fees**: 1,27,000 INR ( inclusive of GST) for batch 2018 (Check NISM website for updates)
+- **Evaluation Criteria**: A student is expected to obtain the minimum passing grade of 50% in each of the courses listed above.
+- **Degree Awards**: The degree will be awarded jointly by NISM and Department of Economics, University of Mumbai.
 
 # Programme Highlights
 
