@@ -1,5 +1,5 @@
 # NISM - Data Science 
-Program graduate Diploma in Data science by Mumbai University facilitated by NISM
+Post Graduate Diploma in Data science by Mumbai University facilitated by National Institute of Securities Market (NISM)
 
 # About the Programme
 **Program Name**: Post Graduate Diploma in Data Science 
